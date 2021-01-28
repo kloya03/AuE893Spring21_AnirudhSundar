@@ -1,0 +1,2 @@
+assignment2_turtlesim
+-DCATKIN_DEVEL_PREFIX=/home/anirudh/git_ws/AuE893Spring21_AnirudhSundar/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anirudh/git_ws/AuE893Spring21_AnirudhSundar/catkin_ws/install -G Unix Makefiles
